@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 14 Bytes Used in GitHub's Storage 
+> 📦 15 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,24 +40,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Rust                     4 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Rust                     4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 45 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crabwalk                 4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-irfanshadikrishad.uk     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-dotfiles                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Unknown Project          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+crabwalk                 5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
+irfanshadikrishad.uk     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+dotfiles                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Unknown Project          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 💻 Operating System: 
-Linux                    15 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/vq6s/vq6s/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 23:45:07 UTC
+ Last Updated on 14/11/2026 22:37:39 UTC
 <!--END_SECTION:waka-->
