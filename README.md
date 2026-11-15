@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -40,24 +40,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Rust                     4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Rust                     6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
+TypeScript               5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   18 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crabwalk                 5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-irfanshadikrishad.uk     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-dotfiles                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Unknown Project          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+crabwalk                 6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
+irfanshadikrishad.uk     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+dotfiles                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 💻 Operating System: 
-Linux                    17 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/vq6s/vq6s/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:37:39 UTC
+ Last Updated on 15/11/2026 23:01:45 UTC
 <!--END_SECTION:waka-->
