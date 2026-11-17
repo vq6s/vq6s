@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 15 Bytes Used in GitHub's Storage 
+> 📦 16 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -17,16 +17,16 @@
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-🌃 Evening                12 commits          ████████████████░░░░░░░░░   63.16 % 
-🌙 Night                  6 commits           ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+🌃 Evening                15 commits          █████████████████░░░░░░░░   68.18 % 
+🌙 Night                  6 commits           ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Tuesday                  13 commits          █████████████████░░░░░░░░   68.42 % 
-Wednesday                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Tuesday                  16 commits          ██████████████████░░░░░░░   72.73 % 
+Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -40,24 +40,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Rust                     6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
-TypeScript               5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Rust                     6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
+TypeScript               4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   17 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crabwalk                 6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
-irfanshadikrishad.uk     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-dotfiles                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+crabwalk                 6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
+irfanshadikrishad.uk     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+kavro                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+dotfiles                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Linux                    18 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/vq6s/vq6s/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:01:45 UTC
+ Last Updated on 17/11/2026 01:55:20 UTC
 <!--END_SECTION:waka-->
