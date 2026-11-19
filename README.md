@@ -24,27 +24,28 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.16 % 
-TypeScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.32 % 
+Rust                     2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 9 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Shell** 
 
 ```text
-TypeScript               1 repo              █████████████████████████   100.00 % 
+Shell                    1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 
 
 
- Last Updated on 18/11/2026 01:04:27 UTC
+ Last Updated on 19/11/2026 00:34:56 UTC
 <!--END_SECTION:waka-->
