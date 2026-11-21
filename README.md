@@ -24,17 +24,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
-Rust                     2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Rust                     2 hrs 22 mins       ██████████████░░░░░░░░░░░   54.09 % 
+TypeScript               1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 45 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -47,5 +47,5 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 20/11/2026 00:44:39 UTC
+ Last Updated on 21/11/2026 00:04:38 UTC
 <!--END_SECTION:waka-->
