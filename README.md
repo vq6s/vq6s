@@ -24,17 +24,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 22 mins       ██████████████░░░░░░░░░░░   54.09 % 
-TypeScript               1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Rust                     1 hr 39 mins        █████████████░░░░░░░░░░░░   52.72 % 
+TypeScript               1 hr                ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 24 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -47,5 +47,5 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 21/11/2026 00:04:38 UTC
+ Last Updated on 21/11/2026 23:30:04 UTC
 <!--END_SECTION:waka-->
